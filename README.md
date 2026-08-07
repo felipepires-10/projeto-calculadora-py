@@ -1,4 +1,4 @@
-<<<<<<< Updated upstream
+
 # Projeto-calculadora!
 =======
 !Projeto-calculadora#
