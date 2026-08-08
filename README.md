@@ -1,8 +1,5 @@
 
-# Projeto-calculadora!
-=======
-!Projeto-calculadora#
->>>>>>> Stashed changes
+# Projeto-calculadora*
 
 *Curso EBAC calculadora.py*
 
@@ -16,5 +13,5 @@ Dê permissão de execução: chmod 744 calculadora.sh
 
 *Execute o arquivo ./calculadora.sh*
 
-!Explicação do código Python*
+# Explicação do código Python*
 Meu objetivo era desenvolver uma calculadora que realizasse operações matemáticas utilizando números de entrada do usuário
